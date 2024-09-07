@@ -1,0 +1,11 @@
+/give @s minecraft:netherite_chestplate[minecraft:equippable={slot:'chest',model:'ae:netherite_elytra'},minecraft:glider={},minecraft:item_name='["",{"text":"Netherite Chestplate with Elytra"}]',minecraft:item_model='ae:netherite_elytra']
+
+/give @s minecraft:diamond_chestplate[minecraft:equippable={slot:'chest',model:'ae:diamond_elytra'},minecraft:glider={},minecraft:item_name='["",{"text":"Diamond Chestplate with Elytra"}]',minecraft:item_model='ae:diamond_elytra']
+
+/give @s minecraft:golden_chestplate[minecraft:equippable={slot:'chest',model:'ae:gold_elytra'},minecraft:glider={},minecraft:item_name='["",{"text":"Golden Chestplate with Elytra"}]',minecraft:item_model='ae:gold_elytra']
+
+/give @s minecraft:iron_chestplate[minecraft:equippable={slot:'chest',model:'ae:iron_elytra'},minecraft:glider={},minecraft:item_name='["",{"text":"Iron Chestplate with Elytra"}]',minecraft:item_model='ae:iron_elytra']
+
+/give @s minecraft:chainmail_chestplate[minecraft:equippable={slot:'chest',model:'ae:chain_elytra'},minecraft:glider={},minecraft:item_name='["",{"text":"Chainmail Chestplate with Elytra"}]',minecraft:item_model='ae:chain_elytra']
+
+/give @s minecraft:leather_chestplate[minecraft:equippable={slot:'chest',model:'ae:leather_elytra'},minecraft:glider={},minecraft:item_name='["",{"text":"Leather Tunic with Elytra"}]',minecraft:item_model='ae:leather_elytra']
