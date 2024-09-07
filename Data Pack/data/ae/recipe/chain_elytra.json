@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:chainmail_chestplate",
+    "minecraft:elytra"
+  ],
+  "result": {
+    "id": "minecraft:chainmail_chestplate",
+    "components": {
+      "minecraft:equippable": {
+        "slot": "chest",
+        "model": "ae:chain_elytra",
+        "dispensable": true
+      },
+      "minecraft:glider": {},
+      "minecraft:item_name": "[{'text':'Chainmail Chestplate with Elytra'}]",
+      "minecraft:item_model": "ae:chain_elytra"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:netherite_chestplate",
+    "minecraft:elytra"
+  ],
+  "result": {
+    "id": "minecraft:netherite_chestplate",
+    "components": {
+      "minecraft:equippable": {
+        "slot": "chest",
+        "model": "ae:netherite_elytra",
+        "dispensable": true
+      },
+      "minecraft:glider": {},
+      "minecraft:item_name": "[{'text':'Netherite Chestplate with Elytra'}]",
+      "minecraft:item_model": "ae:netherite_elytra"
+    }
+  }
+}
+  

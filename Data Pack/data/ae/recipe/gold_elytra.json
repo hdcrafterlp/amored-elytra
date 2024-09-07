@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:golden_chestplate",
+    "minecraft:elytra"
+  ],
+  "result": {
+    "id": "minecraft:golden_chestplate",
+    "components": {
+      "minecraft:equippable": {
+        "slot": "chest",
+        "model": "ae:gold_elytra",
+        "dispensable": true
+      },
+      "minecraft:glider": {},
+      "minecraft:item_name": "[{'text':'Golden Chestplate with Elytra'}]",
+      "minecraft:item_model": "ae:gold_elytra"
+    }
+  }
+}

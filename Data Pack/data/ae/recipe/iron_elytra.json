@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:iron_chestplate",
+    "minecraft:elytra"
+  ],
+  "result": {
+    "id": "minecraft:iron_chestplate",
+    "components": {
+      "minecraft:equippable": {
+        "slot": "chest",
+        "model": "ae:iron_elytra",
+        "dispensable": true
+      },
+      "minecraft:glider": {},
+      "minecraft:item_name": "[{'text':'Iron Chestplate with Elytra'}]",
+      "minecraft:item_model": "ae:iron_elytra"
+    }
+  }
+}
